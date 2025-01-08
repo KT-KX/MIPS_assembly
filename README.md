@@ -7,12 +7,12 @@ This project demonstrates the use of MIPS assembly language to implement two sep
 
 ## Features
 
-- **Odd Number Count and Sum Program:**
+- **Odd Number Count and Sum Program: (TASK1)**
     - Prompts the user to enter 6 integers between -100 and 100.
     - Displays the count and sum of the odd integers entered.
     - Handles invalid input and out-of-range values.
   
-- **Min/Max Integer Tracking Program:**
+- **Min/Max Integer Tracking Program: (TASK2)**
     - Continuously prompts the user to enter integers.
     - Tracks the smallest and largest integers entered.
     - Displays the minimum and maximum values after a valid input or informs the user to enter at least one valid number.
