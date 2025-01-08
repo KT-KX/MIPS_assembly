@@ -72,6 +72,3 @@ This project demonstrates the use of MIPS assembly language to implement two sep
 ## License
 
 This project is licensed under the MIT License.
-```
-
-You can directly copy this and use it as the README for your project.
