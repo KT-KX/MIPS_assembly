@@ -1,8 +1,4 @@
 
-
-Here's a raw README file for the project that you can copy directly:
-
-```
 # MIPS Assembly: Integer Input and Odd Number Summing
 
 This project demonstrates the use of MIPS assembly language to implement two separate programs: 
